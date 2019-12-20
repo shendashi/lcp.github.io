@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a cool & old man in cold cold winter night
-category: 艺术
+category: 厨房
 tags: 
 keywords: 
 description: 
