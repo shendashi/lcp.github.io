@@ -9,22 +9,22 @@ description:
 
 > a cool & old man in cold cold winter night,cold cold December night with ideal love and I
 
-###What?
+### What?
 
 一份聊天纪录，说过的，想说的和没说的
 
-###Why?
+### Why?
 
 感于电话，语言的无力和局限性，投诸于文字，wish that could make sense,make a difference,make a greater influence 
 
-###How?
+### How?
 
 1. 关于一个或一些问题的QA、发散、探讨的纪录，Gittalk
 2. 关于worth to share的idea、opinions、stories and others
 3. 关于有趣的作品和厉害的人
 
 
-###what's next
+### what's next
 
 暂时先放这个厨房里面
 
