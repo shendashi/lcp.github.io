@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 每个人的金线
-category: 读书
+category: 生活
 tags: 随感
 keywords: 阅读，金线
 description: 
