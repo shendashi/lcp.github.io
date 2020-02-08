@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 致友人书
-category: 创作
-tags: 创作
+category: 乐趣
+tags: 乐趣
 keywords: 
 description: 
 ---
