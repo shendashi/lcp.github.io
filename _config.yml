@@ -4,23 +4,23 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
-  email: lay.1010@hotmail.com
-  link: http://painterlin.com
-  weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
-  music: http://site.douban.com/linanya
+  name: Since when
+  email: 838348914@qq.com
+  link: http://anfishstory.com
+  weibo: http://weibo.com/711231978
+  github: http://github.com/fishstory1
+  music: http://site.douban.com/gitbim/
   linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
 
 # 站点信息
-title: 沈谨鸿的博客
-description: My personal blog
-url: http://shenjinhong.com
+title: Since When
+description: a blog
+url: http://anfishstory.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/deer3.png
-favicon: /public/img/deer3.png
+gavatar: /public/img/deer5.png
+favicon: /public/img/deer5.png
 
 # google analytics 设置
 ga:
@@ -29,7 +29,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: painterlin
+  shortname: anfishstory
 
 # 主题设置，自动激活某个标签
 active: 读书
