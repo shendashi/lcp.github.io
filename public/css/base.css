@@ -75,6 +75,19 @@ body, html {
   font-color: #fff;
   margin-top: 40px;
 }
+.aside2 > .nav > li > a {
+  padding-left: 0px;
+  padding-right: 0px;
+  border-radius: 0px;
+  color: #fff;
+  font-size: 15px;
+  padding: 10px 10px;
+}
+
+.aside2> .nav > li > a:hover {
+  color:#fff;
+  background-color: #80B0E0;
+}
 
 /* 右侧内容栏 */
 .aside3 {
