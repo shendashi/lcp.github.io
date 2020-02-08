@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Seeker的回信
-category: 生活
-tags: 随感
+category: 思考
+tags: 思考
 keywords: 
 description: 
 ---
