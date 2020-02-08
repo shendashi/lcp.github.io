@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 致友人书
-category: 生活
-tags: 年终总结
+category: 项目
+tags: 项目
 keywords: 
 description: 
 ---
