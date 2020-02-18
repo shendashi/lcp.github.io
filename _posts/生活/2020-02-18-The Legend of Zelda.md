@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 塞尔达游戏纪录 The Legend of Zelda
+title: 任天堂的塞尔达传说游戏
 category: 生活
 tags: 
 keywords: 
