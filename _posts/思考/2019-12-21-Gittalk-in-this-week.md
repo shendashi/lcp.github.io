@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 本周聊天记录
+title: Chat with my brother
 category: 思考
 tags: 思考
 keywords: 
@@ -22,8 +22,4 @@ description:
 ### 生活需求
 1. 物质需要
 2. 消费支出
-
-
-
-
 
