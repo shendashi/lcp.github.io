@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mark & Max
-category: 老哥老弟
-tags: 
+category: 思考
+tags:思考 
 keywords: 
 description: 
 ---
