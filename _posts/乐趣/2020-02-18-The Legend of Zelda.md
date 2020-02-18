@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 塞尔达传说
-category: 乐趣
+category:乐趣
 tags: 
 keywords: 
 description: 
