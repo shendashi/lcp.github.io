@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 本周聊天记录
-category: 老哥老弟
-tags: Gittalk
+category: 思考
+tags: 思考
 keywords: 
 description: 
 ---
