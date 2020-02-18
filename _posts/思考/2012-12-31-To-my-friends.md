@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 致友人书
-category: 生活
-tags: 年终总结
+category: 思考
+tags: 札记
 keywords: 
 description: 
 ---
