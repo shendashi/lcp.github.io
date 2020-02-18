@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 任天堂的塞尔达传说游戏
-category: 生活
+title: 塞尔达传说
+category: 乐趣
 tags: 
 keywords: 
 description: 
@@ -23,9 +23,6 @@ description:
 
 ### 故事
 
-寒假，疫情期间玩的游戏，塞尔达传说，体验不错
-
-
-
+初二上寒假期间玩的游戏，任天堂的塞尔达传说，体验不错
 
 
