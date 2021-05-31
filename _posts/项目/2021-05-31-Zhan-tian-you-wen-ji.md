@@ -1,11 +1,10 @@
-  ---
+---
 layout: post
 title: Gitfun
 category: 项目
 tags: 项目
 keywords: null
 description: null
-published: true
 ---
 >   敬告青年工学家-詹天佑
 
