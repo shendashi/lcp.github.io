@@ -17,13 +17,11 @@ description: null
 - 詹天佑
 >[敬告青年工学家](https://www.douban.com/note/736483377/)
 
-
-
 ### 演讲
-
 > [复旦大学经济学院2016毕业演讲：优渥阶层的成功解读](https://www.thepaper.cn/newsDetail_forward_1484643)
 
 ### 博客
+> [谢益辉](https://yihui.org/)
 
 ### 劝学系列
 > 《中国古代劝学名篇选注 朱关法》
