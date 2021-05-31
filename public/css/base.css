@@ -129,7 +129,7 @@ blockquote p {
   text-align: center;
 }
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
-  color: #fff;
+  color: #000000;
   background-color: #303030;
 }
 /* 显示评论按钮 */
