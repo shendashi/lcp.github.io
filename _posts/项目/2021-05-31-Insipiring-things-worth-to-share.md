@@ -20,9 +20,7 @@ description: null
 
 ### 演讲
 
-> 复旦大学经济学院2016毕业演讲：优渥阶层的成功解读
-
-
+> [复旦大学经济学院2016毕业演讲：优渥阶层的成功解读](https://www.thepaper.cn/newsDetail_forward_1484643)
 
 ### 博客
 
