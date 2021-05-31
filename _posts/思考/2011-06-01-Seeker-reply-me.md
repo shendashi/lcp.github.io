@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 柳橙好甜：Seeker的回信
+title: Seeker的回信
 category: 思考
 tags: 思考
 keywords: 
@@ -60,3 +60,5 @@ Seeker
  
 >人与人之间的故事很奇妙吧。与人交往，行随心动。
 >记录下这一次。也许我没什么表情也不会再说什么，可是每一次都在我的心里面。
+
+---柳橙好甜
