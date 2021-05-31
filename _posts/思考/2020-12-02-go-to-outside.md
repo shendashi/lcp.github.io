@@ -1,6 +1,6 @@
 ---
 layout: post
-title: go to outside
+title: anfishstory的开荒
 category: 思考
 tags: 思考
 keywords: 
@@ -8,8 +8,6 @@ description:
 ---
 
 >随便写点什么吧
-
-
 
 这个blog主题是网上找了很久的三栏式笔记体，还是深深喜欢着OneNote啊
 
