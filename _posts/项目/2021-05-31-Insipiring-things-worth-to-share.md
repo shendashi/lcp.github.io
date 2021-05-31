@@ -26,5 +26,8 @@ description: null
 ### 博客
 
 ### 劝学系列
+> 《中国古代劝学名篇选注 朱关法》
 
-
+### 趣味学习资源数据库
+> [nobook](https://www.nobook.com)  
+> [实验楼](https://www.shiyanlou.com)
