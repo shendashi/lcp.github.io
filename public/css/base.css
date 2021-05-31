@@ -79,13 +79,13 @@ body, html {
   padding-left: 0px;
   padding-right: 0px;
   border-radius: 0px;
-  color: #fff;
+  color: #000000;
   font-size: 15px;
   padding: 10px 10px;
 }
 
 .aside2> .nav > li > a:hover {
-  color:#fff;
+  color:#000000;
   background-color: #80B0E0;
 }
 
