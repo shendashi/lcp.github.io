@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 川藏日志
@@ -6,7 +5,9 @@ category: 项目
 tags: 项目
 keywords: null
 description: null
+published: true
 ---
+
 
 ### 20201105-D1 今日主要见闻和收获
 1 5点半起床，8点机票，和余哥，双流到林芝
