@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 柳橙好甜：致友人书
-category: 项目
-tags: 项目
+category: 思考
+tags: 思考
 keywords: 
 description: 
 ---
