@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 绅士的风度、态度和温度
 category: 乐趣
