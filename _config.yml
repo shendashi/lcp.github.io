@@ -19,8 +19,8 @@ url: http://anfishstory.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/deer5.png
-favicon: /public/img/deer5.png
+gavatar: /public/img/applaud.gif
+favicon: /public/img/applaud.gif
 
 # google analytics 设置
 ga:
